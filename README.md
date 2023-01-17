@@ -1,4 +1,4 @@
-### Hi Hi Hi 🤞
+### just algorithm 🤞
 
 <!--
 **tuncayl/tuncayl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
