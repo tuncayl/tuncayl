@@ -1,7 +1,7 @@
 ![github-contribution-grid-snake2](https://user-images.githubusercontent.com/117203775/208693767-0a002ff1-01d5-4056-81b2-a3fbe8d26e40.svg)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tunccaay/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tuncay-b%C3%B6rek%C3%A7i-89482320b/) 
-[Upwork](https://img.shields.io/badge/-Upwork-green)
+[![Upwork](https://img.shields.io/badge/-Upwork-green)]()
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
