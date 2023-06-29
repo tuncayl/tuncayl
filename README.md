@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tunccaay/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuncay-b%C3%B6rek%C3%A7i-89482320b/) 
 [![Upwork](https://img.shields.io/badge/-Upwork-green)](https://www.upwork.com/freelancers/~01265df8dae4343d36?viewMode=1)
-[![Leetcode](https://img.shields.io/badge/-Leetcode-orange)](https://leetcode.com/tuncayl/)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/tuncayl/)
 [![ArtStation](https://img.shields.io/badge/-ArtStation-grey?style=flat&logo=artstation)](https://www.artstation.com/tunacayl)
 
 # 💻 Tech Stack:
