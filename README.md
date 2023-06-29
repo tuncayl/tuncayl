@@ -5,6 +5,8 @@
 [![Leetcode](https://img.shields.io/badge/-Leetcode-orange)](https://leetcode.com/tuncayl/)
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![ArtStation](https://img.shields.io/badge/-ArtStation-grey?style=flat&logo=artstation&link=https%3A%2F%2Fwww.artstation.com%2Ftunacayl)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tuncayl&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tuncayl&theme=dark&hide_border=false)<br/>
