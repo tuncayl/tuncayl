@@ -1,3 +1,9 @@
+# Hello :raised_hand_with_fingers_splayed: , I'm Tuncay!
+
+## About me :
+
+### 💻 I am a graduate of Denizli University Computer Program. I'm interested in game development. I mainly use C# and unity and I am constantly trying to improve myself. :)
+
 ![github-contribution-grid-snake2](https://user-images.githubusercontent.com/117203775/208693767-0a002ff1-01d5-4056-81b2-a3fbe8d26e40.svg)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tunccaay/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuncay-b%C3%B6rek%C3%A7i-89482320b/) 
