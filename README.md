@@ -1,4 +1,4 @@
-# Hello :raised_hand_with_fingers_splayed: , I'm Tuncay!
+#  :raised_hand_with_fingers_splayed: Hello, I'm Tuncay!
 
 ## About me :
 
