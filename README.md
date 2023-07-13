@@ -2,7 +2,7 @@
 
 ## About me :
 
-### 💻 I am a graduate of Denizli University Computer Programing. I'm interested in game development. I mainly use C# and unity and I am constantly trying to improve myself. :)
+### 💻 I am a graduate of Pamukkale University Computer Programing. I'm interested in game development. I mainly use C# and unity and I am constantly trying to improve myself. :)
 
 ![github-contribution-grid-snake2](https://user-images.githubusercontent.com/117203775/208693767-0a002ff1-01d5-4056-81b2-a3fbe8d26e40.svg)
 ## 🌐 Socials:
