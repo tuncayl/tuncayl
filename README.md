@@ -10,6 +10,8 @@
 [![Upwork](https://img.shields.io/badge/-UpWork-green?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01265df8dae4343d36?viewMode=1)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/tuncayl/)
 [![ArtStation](https://img.shields.io/badge/-ArtStation-grey?style=flat&logo=artstation)](https://www.artstation.com/tunacayl)
+[![Youtube](https://img.shields.io/badge/Youtube-red?logo=Youtube)](https://www.youtube.com/@tunodev)
+
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
