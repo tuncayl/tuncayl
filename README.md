@@ -16,7 +16,7 @@
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![UNITY](https://img.shields.io/badge/Unity-black?logo=Unity)
+![UNITY](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tuncayl&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
